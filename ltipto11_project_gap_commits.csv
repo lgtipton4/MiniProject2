@@ -1,0 +1,367 @@
+pre/post;project_wocid;commit_sha1;author;time;commit message
+pre;cambridgemolecularengineering_tabledataextractor;77e42789533462f199636e6b3ace3acb49a87be8;Taketomo <ti250@cam.ac.uk>;1636978089;"Update Travis to check for 3.9
+"
+pre;cambridgemolecularengineering_tabledataextractor;6b5639d8220a196eaf5fcd63fad20e1a92aa722a;Taketomo <ti250@cam.ac.uk>;1636978537;"Update requirement for requests
+"
+pre;cambridgemolecularengineering_tabledataextractor;266f2e6474c1a2625e70815f6721fd8e0a053db6;Taketomo <ti250@cam.ac.uk>;1636979366;"Backwards compatibility changes
+"
+pre;cambridgemolecularengineering_tabledataextractor;8dd1668b9b9fb6ea83e7bdf704e07077987517e0;JurajMa <36662950+JurajMa@users.noreply.github.com>;1637000900;"Merge pull request #48 from CambridgeMolecularEngineering/ti250/update-packages
+
+Update packages"
+pre;cambridgemolecularengineering_tabledataextractor;593fdd2975ea94fc229413ceb3dd70c306a8ef65;JurajMa <36662950+JurajMa@users.noreply.github.com>;1639753608;"name changed to lowercase
+
+Signed-off-by: JurajMa <36662950+JurajMa@users.noreply.github.com>
+"
+pre;cambridgemolecularengineering_tabledataextractor;6e17592e09037282a4e9bf39e44718b5d4d34fb8;JurajMa <36662950+JurajMa@users.noreply.github.com>;1639754008;"debul level corrected
+"
+pre;cambridgemolecularengineering_tabledataextractor;cc041a9dbca8e8af10674944fddb257a73596302;JurajMa <36662950+JurajMa@users.noreply.github.com>;1639754162;"setuptools requirement removed
+"
+pre;cambridgemolecularengineering_tabledataextractor;466da0142687a073e0733cbd902730caa9ca9149;JurajMa <36662950+JurajMa@users.noreply.github.com>;1639754360;Merge branch 'master' into jm2111_post_publication
+pre;cambridgemolecularengineering_tabledataextractor;77a3c997ace454c2608909b03ac96019ab66d5fb;ti250 <ti250@cam.ac.uk>;1639754527;"Merge pull request #49 from CambridgeMolecularEngineering/jm2111_post_publication
+
+Minor clean-up"
+pre;cambridgemolecularengineering_tabledataextractor;b1d8b82ac18c9b9afbb44121629847465922e5a2;JurajMa <36662950+JurajMa@users.noreply.github.com>;1639756519;"updated description format
+"
+post;cambridgemolecularengineering_tabledataextractor;af31f840ae508b4cc36fe0d352c101b57548b590;DINGYUN HUANG <94184902+Dingyun-Huang@users.noreply.github.com>;1740353894;"updated versions
+"
+post;cambridgemolecularengineering_tabledataextractor;726ffe44e281c2f06c0dfc3f02af224b0e238410;Dingyun Huang <dh582@cam.ac.uk>;1740498731;"press numpy down to < 2.0.0
+"
+post;cambridgemolecularengineering_tabledataextractor;91e8c04432d5098ef8d3e73495b9ad669b145839;DINGYUN HUANG <94184902+Dingyun-Huang@users.noreply.github.com>;1741103789;"updated requirements
+"
+post;cambridgemolecularengineering_tabledataextractor;42cc9bd120106e7b9f304a7cabdc72efb15b353d;Taketomo Isazawa <isazawa.t@gmail.com>;1741292504;"Merge pull request #50 from CambridgeMolecularEngineering/dingyun/update-python
+
+updated versions"
+post;cambridgemolecularengineering_tabledataextractor;4fe94bdf9b9f45fe3e119adee8cb83c2f4f1c327;Taketomo <ti250@cam.ac.uk>;1741985029;"Bump version number
+"
+post;cambridgemolecularengineering_tabledataextractor;754f8cba7cfce034efb7713cf5cc6f20bf9f1cea;Taketomo Isazawa <isazawa.t@gmail.com>;1741985357;"Merge pull request #51 from CambridgeMolecularEngineering/ti250/bump-version
+
+Bump version number"
+pre;llnl_zfp;cbc8f2dfbad2966b1a1492b17818b982cd876821;Ian Lee <lee1001@llnl.gov>;1458789321;"Updated numbered list formatting
+"
+pre;llnl_zfp;a26be7c44ed4920e0fa27ef9562dc06d7d87b1b8;Ian Lee <lee1001@llnl.gov>;1458789321;"Updated numbered list formatting
+"
+pre;llnl_zfp;84372f1be68d6971b4f886333f67ae758ec29ed9;Peter Lindstrom <pl@llnl.gov>;1458943739;"Checkin of ZFP 0.2.1
+"
+pre;llnl_zfp;2f2207ea353ab0b31af6d4eb7ec914f5dfcccebe;Peter Lindstrom <pl@llnl.gov>;1458943739;"Checkin of ZFP 0.3.1
+"
+pre;llnl_zfp;0412dddd8c27f20c394780bea89ba57569102b1a;Peter Lindstrom <pl@llnl.gov>;1458943739;"Checkin of ZFP 0.2.0
+"
+pre;llnl_zfp;c399ab4a91b9c0cd1be11f046e48f0937f3526f5;Peter Lindstrom <pl@llnl.gov>;1458943739;"Checkin of ZFP 0.3.0
+"
+pre;llnl_zfp;5b6a53ceaca69e6569a2583dc50012b134874c55;Peter Lindstrom <pl@llnl.gov>;1458943739;"Checkin of ZFP 0.1.0
+"
+pre;llnl_zfp;8d786769eb6955e543b9871a45a44687e65ce177;Peter Lindstrom <pl@llnl.gov>;1458943740;"Checkin of ZFP 0.4.1
+"
+pre;llnl_zfp;56519d4a45dbb1345920f3eecebc4e070dcc296b;Peter Lindstrom <pl@llnl.gov>;1458943740;"Checkin of ZFP 0.5.0
+"
+pre;llnl_zfp;ea633f01d06332c0472361560a68dd5c547d123c;Peter Lindstrom <pl@llnl.gov>;1458943740;"Checkin of ZFP 0.4.0
+"
+post;llnl_zfp;a97f2e3e45658487707fbbb9197167c890ac35de;Ian Lee <lee1001@llnl.gov>;1474484408;"Added keeper file to retain lib directory
+"
+post;llnl_zfp;5f80723b01eb45d42e826836e8a65cdcd102e3b5;Ian Lee <lee1001@llnl.gov>;1474484758;"Added gitignore file for built files
+"
+post;llnl_zfp;aa459b729d038904288246863f703e52414e356f;Pedro Melgueira <pedro.melgueira@pknoa.com>;1474530983;"Added make rules to handle lib directory
+"
+post;llnl_zfp;ee8eee368493ef3e121b1a0db1abef84024ca24e;Pedro Melgueira <pedro.melgueira@pknoa.com>;1474531002;"Solves issue #2
+"
+post;llnl_zfp;cf5522600bc71578abcaf20eb9b7ad870cc97a58;Ian Lee <IanLee1521@gmail.com>;1475010061;"Merge pull request #3 from petermlm/master
+
+Issue #2"
+post;llnl_zfp;ba525d79c1808237648dba7e58c7a791316c5af6;Elvis Stansvik <elvis.stansvik@orexplore.com>;1477937491;"Use CMake as build system
+"
+post;llnl_zfp;81506cf6c553dc29df1ee39dd5f83adaba2343bd;Elvis Stansvik <elvis.stansvik@orexplore.com>;1477938762;"Add .travis.yml for testing on Travis CI
+"
+post;llnl_zfp;7591b6c1c2a690e99151f1dbb2f2f562db2e9f86;Elvis Stansvik <elvis.stansvik@orexplore.com>;1478096870;"Add .appveyor.yml for testing on Appveyor
+
+Build is currently failing, so will have to investigate that.
+"
+post;llnl_zfp;1c1fbaf4c23560d1c82f9ff91bf90c28a8dcb249;Elvis Stansvik <elvstone@gmail.com>;1480004853;"Merge 7591b6c1c2a690e99151f1dbb2f2f562db2e9f86 into cf5522600bc71578abcaf20eb9b7ad870cc97a58
+"
+post;llnl_zfp;0a2903e556ace3cfdeb1a5e24ea14b51fe63a3c5;Chuck Atkins <chuck.atkins@kitware.com>;1481834663;"Add a CMake build
+"
+pre;mantidproject_mantid;44dd034194867159c37ee89c8d4087ed356361d8;Freddie Akeroyd <freddie.akeroyd@stfc.ac.uk>;1175694466;"Create initial directories. Refs #1.
+"
+post;mantidproject_mantid;c7e7484b19c7924aae551191dbaec0f83e73c26e;Russell Taylor <taylorrj@ornl.gov>;1190130210;"First commit of code relating to the algorithm interface & base class. Re #19.
+"
+post;mantidproject_mantid;81df55774a29196c1cd347d38134947175fc718f;Russell Taylor <taylorrj@ornl.gov>;1190209627;"Adding Build directory, which includes makefile. Also adding a script to run tests. Re #28.
+"
+post;mantidproject_mantid;5f6279ace2d9cf93231b033d93f100c3cbd37592;Russell Taylor <taylorrj@ornl.gov>;1190211329;"Added IProperty interface. Re #19.
+"
+post;mantidproject_mantid;9cdc1a5c097811e72473bb6f028e97fd21b762c6;Russell Taylor <taylorrj@ornl.gov>;1190214374;"Really adding the Build directory and makefiles this time. Fixes #28.
+"
+post;mantidproject_mantid;c20f2e9d76cd7af2524fb68a465b938e69f35e52;Russell Taylor <taylorrj@ornl.gov>;1190306126;"Simple, temporary way of including algorithm properties added. Re #19.
+"
+post;mantidproject_mantid;16b657d92aa3c3ae8754ca1b2d933595cca336cd;Russell Taylor <taylorrj@ornl.gov>;1190902993;"First version of Algorithm Factory. Re #19.
+"
+post;mantidproject_mantid;b40f5b31d9cb9da0530549e8b81bf9cbf35c250a;Russell Taylor <taylorrj@ornl.gov>;1190903158;"First version of Algorithm Factory. Re #19.
+"
+post;mantidproject_mantid;333bf0443080ef804b4daae41696b498783366f1;Russell Taylor <taylorrj@ornl.gov>;1190903660;"Re #19
+"
+post;mantidproject_mantid;67fa2fd574fd9eeb49f212701038b90440a148a2;Russell Taylor <taylorrj@ornl.gov>;1190983233;"Add Eclipse project settings files to repository. Fixes #29.
+"
+post;mantidproject_mantid;3ca978b65b8276d2714a1a25bf047a0279786276;Russell Taylor <taylorrj@ornl.gov>;1191253764;"First part of LoadRaw algorithm. Re #25.
+"
+pre;mic-dkfz_nnunet;8bd5e4a574dfe9ecc65038b00cb0da7235aa004c;Fabian Isensee <isenseef@gmail.com>;1588086886;"version_increment
+"
+pre;mic-dkfz_nnunet;26b5a9f539330507f8c24f8aa6e34bc22f719b87;Fabian Isensee <isenseef@gmail.com>;1588246746;"fix for ds_loss_weights being nan if only one output of the network was configured
+"
+pre;mic-dkfz_nnunet;0eb4a1d459d58c70b8f8842449ccc8ddefc65fb2;Fabian Isensee <isenseef@gmail.com>;1588573657;"multigpu_inference_warning
+"
+pre;mic-dkfz_nnunet;200e827c65020bb255ac3076e64ff505f86c4a5e;Fabian Isensee <isenseef@gmail.com>;1588746408;"nnUNetTrainerV2_fullEvals is less verbose; epoch time now includes time spent in on_epoch_end
+"
+pre;mic-dkfz_nnunet;92132faca22cc8a3f18aa1bd5547582799f7501e;Fabian Isensee <isenseef@gmail.com>;1588747710;"bugfix
+"
+pre;mic-dkfz_nnunet;648428843df96ab8966277c7b5536c5b1719cca0;Prateek Gupta <prateek.gupta891@gmail.com>;1588768946;updated path for colab implementation
+pre;mic-dkfz_nnunet;6789ef7c9db0d782ff2febc0bdc908c087e50c9f;Prateek Gupta <prateek.gupta891@gmail.com>;1588935309;"removes issue ""model_final_checkpoint.model.pkl"" not found"
+pre;mic-dkfz_nnunet;19976ae9425e8d53a040f57128be5ca9e035ffbf;Fabian Isensee <isenseef@gmail.com>;1588948755;"easier way of installing hiddenlayer
+"
+pre;mic-dkfz_nnunet;b38c69b345b2f60cd0d053039669e8f988b0c0af;Fabian Isensee <isenseef@gmail.com>;1589196134;"bugfix
+"
+pre;mic-dkfz_nnunet;f5b7fe2bd886d87a8a40dbacf6ac92574148ba9b;Fabian Isensee <f.isensee@dkfz.de>;1590650526;"use tf for dataset fingerprint
+"
+post;mic-dkfz_nnunet;75454a0c94312279d920265cf8bd73a6e4e99330;Fabian Isensee <f.isensee@dkfz.de>;1594022452;"fixed a bug in nnUNet_find_best_configuration
+"
+post;mic-dkfz_nnunet;1af5ec354090ea369ec4f9cc35f34e92ea0ff995;Fabian Isensee <f.isensee@dkfz.de>;1594022577;"fixed a bug in nnUNet_find_best_configuration
+"
+post;mic-dkfz_nnunet;e24789376295b6b33773e0c1928c53c28eab23b8;Fabian Isensee <isenseef@gmail.com>;1594105312;"cleanup for ensembling code
+"
+post;mic-dkfz_nnunet;657d0b4a3773b267ad96bb3393e4b2f5a013b325;Fabian Isensee <isenseef@gmail.com>;1594233624;"backwards compatibility with very old models
+"
+post;mic-dkfz_nnunet;7e6df699453334ea0743c1eb03c1e14edda23f12;nlessmann <773597+nlessmann@users.noreply.github.com>;1594801920;"Make sure output directory exists before plotting network architecture
+"
+post;mic-dkfz_nnunet;6ceed59ac460c716b8665d74d1004b37fa68af6c;Fabian Isensee <isenseef@gmail.com>;1595229138;"typo
+"
+post;mic-dkfz_nnunet;dc112e456f4be646f23e08ce9ee57a9e158013a1;Fabian Isensee <isenseef@gmail.com>;1595231801;"file conversion utils
+"
+post;mic-dkfz_nnunet;04a11d96ec3c7fb71b3739a1df892789ad2c38f1;Fabian Isensee <isenseef@gmail.com>;1595231874;"start working on bugfix
+"
+post;mic-dkfz_nnunet;9524dc33425627d1e4b21336a5202b1bcc8157e5;Fabian Isensee <isenseef@gmail.com>;1595232053;"bugfix
+"
+post;mic-dkfz_nnunet;f88a65d994c3ec8b7683f787e4bc5d6755b04d3d;Fabian Isensee <isenseef@gmail.com>;1596606892;"some_docs
+"
+pre;ofloveandhate_paramotopy;8924d55c30370362a9b2f730892e26b9b7497440;dani brake <danielthebrake@gmail.com>;1487286268;"fixed problem related to incorrect filename for random values from step 1.
+"
+pre;ofloveandhate_paramotopy;bda4b74dc3da8a390b6b3c988f2d50f246d421bc;dani brake <danielthebrake@gmail.com>;1487286283;"changed my name to dani
+"
+pre;ofloveandhate_paramotopy;9fbb6b8e3e0ef94fb721687f59aa19259a3a2e36;dani brake <danielthebrake@gmail.com>;1487286339;"removed blank space at top of gitignore
+"
+pre;ofloveandhate_paramotopy;4c20a0c9eb5bef2bc042ddd47399597fce33de80;dani brake <danielthebrake@gmail.com>;1487286503;"removed unnecessary nested folder.
+"
+pre;ofloveandhate_paramotopy;806e8917f720e87880ba37e7b8a5512f82135ac8;dani brake <danielthebrake@gmail.com>;1487528436;"re-running step2 now deletes the path failure analysis data
+"
+pre;ofloveandhate_paramotopy;cb0eea61746ace4a04c3bff17b3b81f98cb54158;dani brake <danielthebrake@gmail.com>;1487528837;"changed default generation of new random parameter values for path failure analysis, off.
+
+was on, probably surprising for users.
+"
+pre;ofloveandhate_paramotopy;df455efcbef688e6272eedc51cf9f072643adf37;dani brake <danielthebrake@gmail.com>;1487528988;"bump subsubminor version
+"
+pre;ofloveandhate_paramotopy;1833c759167479d66eb0fcc05d3476bec94fb93a;dani brake <danielthebrake@gmail.com>;1487529942;"corrected search order for libraries in configure.ac
+"
+pre;ofloveandhate_paramotopy;81a37036f8ad7a31d22d36f5e20f269b52fd61b6;dani brake <danielthebrake@gmail.com>;1487530002;"added .tar.gz archives generated from `make dist` to .gitgnore
+"
+pre;ofloveandhate_paramotopy;e737b32a8535a729dd3b4e5ba4f4573b1a37375e;dani brake <danielthebrake@gmail.com>;1487530412;"readme improvements
+"
+post;ofloveandhate_paramotopy;f645b52cac893e310b02b2b297c02258c9cfca21;Silviana Amethyst <silvianaamethyst@gmail.com>;1588201900;"name change
+
+will it ever end?
+"
+post;ofloveandhate_paramotopy;ee06c0b521f0ee55640cc199dc0d0b67be217781;Silviana Amethyst <silvianaamethyst@gmail.com>;1588201942;"added source for manual to repo
+"
+post;ofloveandhate_paramotopy;611c6a48542371b20b8a778be81af4417f28beb8;Silviana Amethyst <silvianaamethyst@gmail.com>;1588202194;"name change and setting tex root
+"
+post;ofloveandhate_paramotopy;7cae27440d8d7029d76a9bf172c46290d5693e4a;Silviana Amethyst <silvianaamethyst@gmail.com>;1588202219;"removed old versions of the manual
+"
+post;ofloveandhate_paramotopy;3220663ba9e84a720a0f3d6d872056b84f40244d;Silviana Amethyst <silvianaamethyst@gmail.com>;1588202520;"replaced welcome screen to fix my name
+"
+post;ofloveandhate_paramotopy;7fb005ffdb2acbea0ff6118e694f8cf3826b0fba;Silviana Amethyst <silvianaamethyst@gmail.com>;1592600011;"updated a bit about the compilation instructions.
+
+they were rather outdated -- from before i applied the autotools to be the build system, so many years ago
+"
+post;ofloveandhate_paramotopy;1401b590d77ce5df0ae9f7b6faa893900e1fd56b;Silviana Amethyst <silvianaamethyst@gmail.com>;1592600152;"a few formatting adjustments
+"
+post;ofloveandhate_paramotopy;62a69287552b41269078bb09f56e6620cc85c748;Silviana Amethyst <silvianaamethyst@gmail.com>;1592600181;"commit of the user's manual.
+
+i dislike committing a pdf, but i haven't figured out a good alternative
+"
+post;ofloveandhate_paramotopy;36121881a137cf29c7f662bd792a0e823d5742f2;Silviana Amethyst <silvianaamethyst@gmail.com>;1592600508;"name replacement, and subminor version bump
+"
+post;ofloveandhate_paramotopy;f0a53f57908fbb79fbcac8199ae9c423ad420cd5;Silviana Amethyst <silvianaamethyst@gmail.com>;1592600670;"updated the m4 macros that find boost to their most current versions
+"
+pre;qiskit_openqasm;acd396a912a7ffde07d399be99641f147e3f6f5e;Omar Costa Hamido <omarcostinha@gmail.com>;1545430626;"Update README.md (#43)
+
+typo"
+pre;qiskit_openqasm;eb9c1d57ad518dbb3cdd4c06e81ae997adf32fcc;cclauss <3709715+cclauss@users.noreply.github.com>;1545430669;"Merge 1b2db1deb1617ef9c478c1e2856841c80a0eaebd into acd396a912a7ffde07d399be99641f147e3f6f5e
+"
+pre;qiskit_openqasm;44e152e8b40b98531ca7d70c07c4ecf682381b8a;Hernán Indíbil de la Cruz Calvo <indikalesken@hotmail.com>;1546210264;"Merge 3508224ec7aba3f0f076eee99eca45abd6e90e7c into acd396a912a7ffde07d399be99641f147e3f6f5e
+"
+pre;qiskit_openqasm;d8dddc09ea09c4c55840dcc9274160392743ee3d;hhorii <hhorii@users.noreply.github.com>;1546974674;"Merge a2bbb4cdad52edce3ecb29390c9a9425252432c4 into acd396a912a7ffde07d399be99641f147e3f6f5e
+"
+pre;qiskit_openqasm;07c83af3fba403cee8b93b4ee64e441bf634efb0;itoko <itoko@jp.ibm.com>;1546974684;"Merge bde0b59606606e211f2cfabc69b6ecdacec14a15 into acd396a912a7ffde07d399be99641f147e3f6f5e
+"
+pre;qiskit_openqasm;aeb684425130cf579b2a3963d7d0beab2061540a;Jay Gambetta <jay.gambetta@us.ibm.com>;1551015139;Update README.md
+pre;qiskit_openqasm;7967c676bd1c6b786e93bf10725d82ff09f9fee6;Jay Gambetta <jay.gambetta@us.ibm.com>;1551015146;Update README.md
+pre;qiskit_openqasm;2135cf496b6e5bcb7870f2e23c7a01d82a679f06;itoko <itoko@jp.ibm.com>;1551792727;"Merge bde0b59606606e211f2cfabc69b6ecdacec14a15 into 7967c676bd1c6b786e93bf10725d82ff09f9fee6
+"
+pre;qiskit_openqasm;eb74b8785a1de22b3a875df33170b46bda63bb5d;cclauss <cclauss@me.com>;1552592397;"Merge 1b2db1deb1617ef9c478c1e2856841c80a0eaebd into 7967c676bd1c6b786e93bf10725d82ff09f9fee6
+"
+pre;qiskit_openqasm;ab6c36f6dd74da48e3bb1308e8e38160f5f1ef64;hhorii <hhorii@users.noreply.github.com>;1552592397;"Merge a2bbb4cdad52edce3ecb29390c9a9425252432c4 into 7967c676bd1c6b786e93bf10725d82ff09f9fee6
+"
+post;qiskit_openqasm;a33d1efe3633ab7aeeab64f3af073d2aef8e1338;Ali Javadi <ajavadia@princeton.edu>;1564066642;"bring over examples from terra
+"
+post;qiskit_openqasm;d8822ec8ba50efa8cbfde3d62ad0be1e88f25728;Ali Javadi-Abhari <ajavadia@users.noreply.github.com>;1564066858;"Merge a33d1efe3633ab7aeeab64f3af073d2aef8e1338 into 7967c676bd1c6b786e93bf10725d82ff09f9fee6
+"
+post;qiskit_openqasm;f53be8d9a131617ce1ecbe7f2343283ead1639f9;Vlad Gheorghiu <vsoftco@gmail.com>;1566358643;"Update teleport.qasm
+
+X and Z corrections should be interchanged, otherwise we get a MINUS (-) global phase when the final measurement result is [1, 1]"
+post;qiskit_openqasm;6b2e0238c90779e8b27f3c3d39a78d0464ffaa05;Vlad Gheorghiu <vsoftco@gmail.com>;1566358662;"Merge f53be8d9a131617ce1ecbe7f2343283ead1639f9 into 7967c676bd1c6b786e93bf10725d82ff09f9fee6
+"
+post;qiskit_openqasm;3e8a8614f4b0ea4de963941f0764996b31c5c539;Renier Morales <renierm@us.ibm.com>;1573631208;"Fixup qasm generator to work with latest qiskit release
+"
+post;qiskit_openqasm;36da4eccfdcebf45a1242772818fbdd2846f37df;Renier Morales <renier@users.noreply.github.com>;1573631309;"Merge 3e8a8614f4b0ea4de963941f0764996b31c5c539 into 7967c676bd1c6b786e93bf10725d82ff09f9fee6
+"
+post;qiskit_openqasm;e64fbc46cb9cf479a349cdb60d8fae320de2c144;neville133 <42545937+neville133@users.noreply.github.com>;1577983128;Create main.yml
+post;qiskit_openqasm;7ea32c3ae80da5538bc7459fc10c597d1fd2784a;neville133 <42545937+neville133@users.noreply.github.com>;1577983147;"Merge e64fbc46cb9cf479a349cdb60d8fae320de2c144 into 7967c676bd1c6b786e93bf10725d82ff09f9fee6
+"
+post;qiskit_openqasm;4bce5d451c1c68be3a0098181a5bdb5da3445242;Christian Clauss <cclauss@me.com>;1581679960;Merge branch 'master' into patch-1
+post;qiskit_openqasm;6b1d40502c403ebb42016df65bfc6d3507917397;Michael Blake <apptrain@gmail.com>;1586531463;"chsh game only for ibmq_qasm_simulator to execute strategy using the qasm if operation.
+"
+pre;qzhu2017_pyxtal;654bbb57e2aba717986ee9e238b3740c718164e4;Scott <swf767@gmail.com>;1555985322;"Replace distance_matrix_euclidean with distance_matrix
+"
+pre;qzhu2017_pyxtal;31ca1cc1f951a5ae3c8a9c37827e2bc2d00b3725;Scott <swf767@gmail.com>;1555986704;"Add support for single atoms in molecular crystals
+"
+pre;qzhu2017_pyxtal;d9d45e9ee51875835a3ee1d36b295f8c2132cb4c;Scott <swf767@gmail.com>;1555986758;"Return [] for single atoms in get_symmetry
+"
+pre;qzhu2017_pyxtal;abbf7cbcec286b5ce19c1721def89c68c948ba34;Scott Fredericks <swf767@gmail.com>;1556047874;"Add project option to apply_ops;
+Remove distance_matrix_euclidean;
+Fix index_from_letter and letter_from_index for ""o"" position
+"
+pre;qzhu2017_pyxtal;e4585365fd2f15c47c9d240fa2ad712ecb9a8457;Scott Fredericks <swf767@gmail.com>;1556048026;"Remove unneeded items placed by VSCode
+"
+pre;qzhu2017_pyxtal;21b78c1070d909c35751fdb44c285510373fcccf;Scott <swf767@gmail.com>;1556050327;"Replace .coordinates with .cart_coords
+"
+pre;qzhu2017_pyxtal;79cfeedadf57e74b1fb71bb85b9dc52e575eb809;Qiang Zhu <alecfans@gmail.com>;1556122581;Update Usage.rst
+pre;qzhu2017_pyxtal;0892117367b349b80733ab1ea78de755dc934a80;Scott <swf767@gmail.com>;1556149434;"Fix (and thoroughly test) check_compatible;
+Change loop conditionals;
+Add second pointer (p2) to keep track of attempt history;
+Add used_indices variable to prevent multiple usage of WP's with no freedom
+"
+pre;qzhu2017_pyxtal;05d95dd8eaeac068843bb64c674b75243ecf5d9d;Scott <swf767@gmail.com>;1556151377;"Fix index_from_letter and letter_from_index to work with ""o"" Wyckoff positions;
+This only affects point groups with an ""o"" position, which is (0,0,0).
+"
+pre;qzhu2017_pyxtal;2ed1b15ff6b7dc83f53f0a5921a6c7e4eff55ba8;Scott <swf767@gmail.com>;1556160292;"Remove unused function check_wyckoff_position_molecular
+"
+post;qzhu2017_pyxtal;428a0df1468b977922bafd0e76a8cf8b4cb924ba;Scott Fredericks <swf767@gmail.com>;1569485825;Fix typos
+post;qzhu2017_pyxtal;ff4ac37f1e3585f7e0e60f5f8569bfb4c9b72397;Qiang Zhu <alecfans@gmail.com>;1571890007;"add doc to prepare for release
+"
+post;qzhu2017_pyxtal;4ba49691c8af9091e35466157837969edf91e91c;Qiang Zhu <alecfans@gmail.com>;1571890113;"update flowchart
+"
+post;qzhu2017_pyxtal;1bd947744a04a0df66798f85a901c6b19b373fa6;Qiang Zhu <alecfans@gmail.com>;1571893762;"add doc
+"
+post;qzhu2017_pyxtal;db85fb4c01b8754f57fb07eeaf229bdf6204ad80;Qiang Zhu <alecfans@gmail.com>;1571896678;"fix some doc issue
+"
+post;qzhu2017_pyxtal;abe5bf9dd55b816b55914fb697fa7744ac78f392;Qiang Zhu <alecfans@gmail.com>;1571946962;"add pages
+"
+post;qzhu2017_pyxtal;852b338b46cd613aa91db10b80d02cd4f0fa7d37;Qiang Zhu <alecfans@gmail.com>;1571947080;"change the theme
+"
+post;qzhu2017_pyxtal;77d68a49c4c0e1edd9ffa6c4e1a90485470ad538;Qiang Zhu <alecfans@gmail.com>;1571948307;"check readdoc
+"
+post;qzhu2017_pyxtal;0b2da308fcb34e4651c3509b23921609f03d519b;Qiang Zhu <alecfans@gmail.com>;1571948434;"check readdoc
+"
+post;qzhu2017_pyxtal;ed557b2f1a4e7e97179e713c7e1096669c55461b;Qiang Zhu <alecfans@gmail.com>;1571950590;"try to fix readthedoc
+"
+pre;r-spatial_gstat;8fc44d199a6d670332db10ffab2918e9413b05c3;Edzer Pebesma <edzer.pebesma@uni-muenster.de>;1668974767;"CI
+"
+pre;r-spatial_gstat;b37deba5e1f1f22113a32d04d41267e3174def3e;Edzer Pebesma <edzer.pebesma@uni-muenster.de>;1670188729;"badge
+"
+pre;r-spatial_gstat;34f2d00c6fd05be819131d953d8516eeca20b5ee;Edzer Pebesma <edzer.pebesma@uni-muenster.de>;1677253742;"update
+"
+pre;r-spatial_gstat;51c4c07bffd8b8bc8520a6201c6f5a7a8d3b4130;Edzer Pebesma <edzer.pebesma@uni-muenster.de>;1679503412;"fix bug in if()
+"
+pre;r-spatial_gstat;95e353e35e373aa3762d7cf0d63de4e3e64b817e;Jon Skoien <skoiejo@ies.jrc.it>;1679557609;"Describing how anisotropic variograms are handled in fit.variogram
+"
+pre;r-spatial_gstat;37d201f4aeae02c9d1b84aa1117c200e5cc7214d;Edzer Pebesma <edzer.pebesma@uni-muenster.de>;1679557784;"Merge pull request #124 from jskoien/main
+
+Describing how anisotropic variograms are handled in fit.variogram"
+pre;r-spatial_gstat;a2fe679ea5043200479253f168dc9a9f596d8baa;Edzer Pebesma <edzer.pebesma@uni-muenster.de>;1680723612;"pass check without suggested packages
+"
+pre;r-spatial_gstat;d316e475e2309d6929f30c6fc8e7f106dc3014e2;Edzer Pebesma <edzer.pebesma@uni-muenster.de>;1680723656;"Merge branch 'main' of github.com:r-spatial/gstat
+"
+pre;r-spatial_gstat;0661b2cc4c7aeed5a50565c0c7d83afd8871c84c;Edzer Pebesma <edzer.pebesma@uni-muenster.de>;1680782024;"fixes for CRAN release 2.1-1
+"
+pre;r-spatial_gstat;eaa05511953ada05dff0fc2a906e28aefbbdcb26;Edzer Pebesma <edzer.pebesma@uni-muenster.de>;1680782044;"bump version after CRAN release
+"
+post;r-spatial_gstat;3dc21a92e9e0f32d4e3290fbf966559d9748d25d;edzer <edzer.pebesma@uni-muenster.de>;1700926120;"clean up tests, CRAN doc NOTE
+"
+post;r-spatial_gstat;9119f7a896cba31def0f5c85d53edbdb2d00553f;edzer <edzer.pebesma@uni-muenster.de>;1700926149;"start of conversion
+"
+post;r-spatial_gstat;c6b23bef3fb82a2567437014c983e7d634b2b9a0;edzer <edzer.pebesma@uni-muenster.de>;1700927926;"doc issues
+"
+post;r-spatial_gstat;dac58f08e2bb5fa58daaeccd7c205e350f00e117;cmarmstrong <omni.armstrong@gmail.com>;1701936319;"Merge 5c53a3c3e7f598ca7db387b1473df800aac4b921 into c6b23bef3fb82a2567437014c983e7d634b2b9a0
+"
+post;r-spatial_gstat;e78f29f457da2cb62611dbd24824d2a421e6cc4e;olivroy <52606734+olivroy@users.noreply.github.com>;1704850175;Add website to DESCRIPTION
+post;r-spatial_gstat;cefa9055e10a85b4c3d13b99c66293e7d31bc628;Edzer Pebesma <edzer.pebesma@uni-muenster.de>;1704875582;"Merge pull request #132 from olivroy/patch-1
+
+Add website to DESCRIPTION"
+post;r-spatial_gstat;a8954520a0504ed59df6115e356f66b65c04bae6;olivroy <52606734+olivroy@users.noreply.github.com>;1705000352;Create pkgdown.yaml
+post;r-spatial_gstat;94b49b5811c83ba49f2709de0feadb87c0297820;olivroy <52606734+olivroy@users.noreply.github.com>;1705000435;Create _pkgdown.yml
+post;r-spatial_gstat;3330144b3d7e58421cd29275ee4e9bd25f411f02;Edzer Pebesma <edzer.pebesma@uni-muenster.de>;1705003178;"Merge pull request #133 from olivroy/patch-2
+
+Update pkgdown config"
+post;r-spatial_gstat;78091e4fcc1a1bda0f122910973dd2ec8e7a3787;edzer <edzer.pebesma@uni-muenster.de>;1705003390;"Deploying to gh-pages from @ r-spatial/gstat@3330144b3d7e58421cd29275ee4e9bd25f411f02 🚀
+"
+pre;rafavzqz_geopdes;9d90d329c914264f187c7c4b1d9a67bb22268dfa;rafavzqz <rafavzqz@users.noreply.github.com>;1328717828;Prepared for new release
+pre;rafavzqz_geopdes;cd4b55d8e7346cbad3980f64cd409fa87094d3d0;rafavzqz <rafavzqz@de73d896-90e3-4c87-98df-8390668dc151>;1328717828;Prepared for new release
+pre;rafavzqz_geopdes;dfd402b060b9e55948a4399dd459e344117ef1e4;rafavzqz <rafavzqz@users.noreply.github.com>;1334060040;Fixed bug
+pre;rafavzqz_geopdes;a8a5a8c6cd02cf637ecc7f7da5ab2d746fa54f9f;rafavzqz <rafavzqz@de73d896-90e3-4c87-98df-8390668dc151>;1334060040;Fixed bug
+pre;rafavzqz_geopdes;7d029b7a533f175c55d8777ec6b7cc984cfd2af0;rafavzqz <rafavzqz@de73d896-90e3-4c87-98df-8390668dc151>;1338364552;Updated to version 2
+pre;rafavzqz_geopdes;4f030f9718744676322951c5e9a6b935de7fd646;rafavzqz <rafavzqz@users.noreply.github.com>;1338364552;Updated to version 2
+pre;rafavzqz_geopdes;6c1a43484510714723375b78ae27ea511e108b0e;rafavzqz <rafavzqz@users.noreply.github.com>;1338895306;Use my own mail, updated a couple of small things
+pre;rafavzqz_geopdes;b6cbf98ed98c51f9bd42e2388b3844791fa6b0df;rafavzqz <rafavzqz@de73d896-90e3-4c87-98df-8390668dc151>;1338895306;Use my own mail, updated a couple of small things
+pre;rafavzqz_geopdes;ae7d1afd76100551fecaee1076adc832de91b80c;rafavzqz <rafavzqz@de73d896-90e3-4c87-98df-8390668dc151>;1338907269;Affine maps work also for cells defining the tensor product points
+pre;rafavzqz_geopdes;63884131a4ed0fbb3889b7a0163bc3a70a430b81;rafavzqz <rafavzqz@users.noreply.github.com>;1338907269;Affine maps work also for cells defining the tensor product points
+post;rafavzqz_geopdes;290aa056ca5801a356e16d293aade43c2ed19cbe;rafavzqz <rafavzqz@de73d896-90e3-4c87-98df-8390668dc151>;1349096422;Fixed bug
+post;rafavzqz_geopdes;d9b5d13eb3e7c839f69e040ceefca8264901e9a5;rafavzqz <rafavzqz@users.noreply.github.com>;1349096422;Fixed bug
+post;rafavzqz_geopdes;f33c0ad4583cfbcad386a340799a127018f67a28;rafavzqz <rafavzqz@de73d896-90e3-4c87-98df-8390668dc151>;1349100927;Fixed bug
+post;rafavzqz_geopdes;4f66c551dc59bb87f4fab1ce5e2402878fb6c84c;rafavzqz <rafavzqz@users.noreply.github.com>;1349100927;Fixed bug
+post;rafavzqz_geopdes;a309fad0b3fd11fd77207dc9dceaf8eaa520fdbd;rafavzqz <rafavzqz@users.noreply.github.com>;1350979392;quad_nodes replaced by geo_map_jac, for T-splines
+post;rafavzqz_geopdes;8afff54d7e97ed85859ba9523a651432a5d3aea2;rafavzqz <rafavzqz@de73d896-90e3-4c87-98df-8390668dc151>;1350979392;quad_nodes replaced by geo_map_jac, for T-splines
+post;rafavzqz_geopdes;d1e4baf15b4822755266264a1c36db7cf722e6d1;rafavzqz <rafavzqz@users.noreply.github.com>;1351613892;T-splines, first version
+post;rafavzqz_geopdes;d4ec5ee7bd3efbcaeda75c1cfaeb11e5ac5f6561;rafavzqz <rafavzqz@de73d896-90e3-4c87-98df-8390668dc151>;1351613892;T-splines, first version
+post;rafavzqz_geopdes;79352d5d5058a468a6d1f664fe661987e2de03f5;rafavzqz <rafavzqz@users.noreply.github.com>;1351698814;Error in the filename
+post;rafavzqz_geopdes;213ff0b756bb0c72690ac32792162ea9b47594bc;rafavzqz <rafavzqz@de73d896-90e3-4c87-98df-8390668dc151>;1351698814;Error in the filename
+pre;ros-perception_slam_gmapping;153a949b7e2a05a3f53cabde5e84b6da0c72b7a1;Hidde Wieringa <hidde@hiddewieringa.nl>;1601921165;"Merge 1ee010fc1e180e66ed26a7d4dc7f01e05e9e35ba into 0835d19c69dae36c98b8fa337f4cc2162bdbaf0c
+"
+pre;ros-perception_slam_gmapping;cefe326769e59dea6743eb9d180e99d9c0f3e1a0;Max <max.wittal@mwittal.de>;1602062307;"Merge ff0dc3bf1e3150a3c3cd5bc837f501e007a3c079 into 0835d19c69dae36c98b8fa337f4cc2162bdbaf0c
+"
+pre;ros-perception_slam_gmapping;0917e808145d7d014f0741a9fd728f2666e65094;Juraj Oršulić <juraj.orsulic@fer.hr>;1606524966;Merge branch 'hydro-devel' into hydro-devel
+pre;ros-perception_slam_gmapping;0d9263f8da0aa7b597bfed81a524b1a557324b95;Juraj Oršulić <juraj.orsulic@fer.hr>;1606524969;"Merge 0917e808145d7d014f0741a9fd728f2666e65094 into 5a707e079364ab9f5349c72310f31bfed4a6c834
+"
+pre;ros-perception_slam_gmapping;cdc96904c6a14c1f7b50664875e913d4534bad9e;Tobias Fischer <info@tobiasfischer.info>;1615424761;Fix compilation on Windows
+pre;ros-perception_slam_gmapping;b9390e3b9a98c222f33e640d9012d5d4625abe02;Tobias Fischer <info@tobiasfischer.info>;1615424775;"Merge cdc96904c6a14c1f7b50664875e913d4534bad9e into 0835d19c69dae36c98b8fa337f4cc2162bdbaf0c
+"
+pre;ros-perception_slam_gmapping;39c59434fd29a0a245ad406126ee03b8f8faa099;saldomqui <saldomqui@hotmail.com>;1634297823;"slam_gmapping version that doesnt erase the part of the map under the robot footprint
+"
+pre;ros-perception_slam_gmapping;ef7e485e6b4dc26c57441e22bde38d3eea46b24c;saldomqui <saldomqui@hotmail.com>;1646908861;"adjusted some parameters
+"
+pre;ros-perception_slam_gmapping;03b8eb2673e0e0526a030bbef6335142318c27a0;saldomqui <salvador.dominguez@sagarobotics.com>;1667215926;"fixed first frame issue in gmapping. Fixed high consumption issue increasing linearUpdate parameter's value
+"
+pre;ros-perception_slam_gmapping;43f501ef1699805da16118b2a56bf16e500cbcdd;Brian Tu <fumincha763@gmail.com>;1676359107;"Add a parameter to publish inverse transformations.
+"
+post;ros-perception_slam_gmapping;1768381328b8a576409fe18712b976079b4307ec;v4hn <me@v4hn.de>;1724193409;"drop deprecated use of boost::bind's _1
+
+using a lambda is encouraged from c++11.
+
+This breaks with a recent [ROS-O] proposal to adapt a ros_comm
+header include API. https://github.com/ros-o/ros_comm/pull/3
+"
+post;ros-perception_slam_gmapping;eec86068ceb92ebc433b435fe482db14c562f268;Kei Okada <k-okada@jsk.t.u-tokyo.ac.jp>;1724200421;"Merge pull request #110 from ros-o/obese-devel
+
+[ROS-O] drop deprecated use of boost::bind's _1"
+post;ros-perception_slam_gmapping;f6cd0dc20b32aae5fd356e4dddf144e1b8b9d3fc;Brian Tu <keroroxzz@yahoo.com.tw>;1724200466;"Merge 43f501ef1699805da16118b2a56bf16e500cbcdd into eec86068ceb92ebc433b435fe482db14c562f268
+"
+post;ros-perception_slam_gmapping;dc9eb3dc096590315651232d5de1d960e5bc223d;Tobias Fischer <info@tobiasfischer.info>;1724201051;"Merge cdc96904c6a14c1f7b50664875e913d4534bad9e into eec86068ceb92ebc433b435fe482db14c562f268
+"
+post;ros-perception_slam_gmapping;c3948e14c97c58865a9aaeb305551dcd5bdc761c;Max <max.wittal@mwittal.de>;1724232718;"Merge ff0dc3bf1e3150a3c3cd5bc837f501e007a3c079 into eec86068ceb92ebc433b435fe482db14c562f268
+"
+post;ros-perception_slam_gmapping;172a2f14fb1603ccc309814439a591aee15109fb;Tridivraj Bhattacharyya <tridivb@users.noreply.github.com>;1725789570;"Merge 13ac3d2393a2dcc9eff15da0308c2bbf453e6561 into eec86068ceb92ebc433b435fe482db14c562f268
+"
